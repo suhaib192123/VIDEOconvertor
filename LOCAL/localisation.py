@@ -5,23 +5,23 @@ START_TEXT = "Send me any file to begin."
 
 FORCE_SUB_TEXT = "In order to use this bot, you've to join my parent channel."
 
-CHANNEL_LINK = "https://t.me/DroneBots"
+CHANNEL_LINK = "https://t.me/kashir_bots"
 
-SUPPORT_LINK = "https://t.me/TeamDrone"
+SUPPORT_LINK = "https://t.me/Dsrs_Group"
 
-info_text = "This bot is developed by @MaheshChauhan\n\nWritten in python library TELETHON.\n\nBot by : @DroneBots\nSupport : @TeamDrone\n\nV1.3"   
+info_text = "This bot is developed by @The_dsr\n\nWritten in python library TELETHON.\n\nBot by : @kashir_bots\nSupport : @Dsrs_Group\n\nV1.3"   
 
 help_text = "Send me any media file to know the stuffs i can do.\n\ncompress - negligible loss compression\nconvert - change formats or extract audio of any video\nrename - rename any file, extension not required\ntrim - cut your videos" 
 
-source_text = "Deploy your own bot.\n\nMain branch - Personal use\nPublic branch - For your channel"
+source_text = "If this bot.\n\nif this bot is not\nworking join @Dsrs_Group  "
 
-DEV = "https://t.me/MaheshChauhan"
+DEV = "https://t.me/The_dsr"
 
 spam_notice = "This bot is hosted on heroku, and hence can run just run one process at a time.Spamming the bot or encoding adult videos will lead you to a ban."
 
 JPG = "LOCAL/video_convertor.jpg"
 
-JPG0 = 'https://telegra.ph/file/d98c559b56ef884ef3bad.jpg'
+JPG0 = 'https://telegra.ph/file/aaebaa957daa2ba6e0f38.jpg'
 
 JPG2 = "LOCAL/20211215_165751.jpg"
 
